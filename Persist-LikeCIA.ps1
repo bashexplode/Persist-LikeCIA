@@ -1,4 +1,7 @@
-﻿function Persist-LikeCIA{
+#         Author: Jesse Nebling (@bashexplode)
+#         License: BSD 3-Clause
+
+function Persist-LikeCIA{
 [CmdletBinding()]
 Param(
         [String]
